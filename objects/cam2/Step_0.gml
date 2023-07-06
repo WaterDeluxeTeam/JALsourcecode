@@ -1,0 +1,1 @@
+view_camera[0] = camera_create_view(0, 0, view_wport[0], view_hport[0], 0, Obj_mapjake, -1, -1, 400, 250);

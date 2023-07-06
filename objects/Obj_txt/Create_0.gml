@@ -1,0 +1,1 @@
+ global.showtime_timer = 0

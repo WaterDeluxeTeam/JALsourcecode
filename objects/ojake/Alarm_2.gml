@@ -1,0 +1,2 @@
+
+JakeTakesDamage = 0;
