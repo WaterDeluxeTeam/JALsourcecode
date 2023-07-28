@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Owall",
+  "name": "oplayer_adam",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_uc",
-    "path": "sprites/spr_uc/spr_uc.yy",
+    "name": "adamidle",
+    "path": "sprites/adamidle/adamidle.yy",
   },
   "spriteMaskId": null,
   "visible": true,

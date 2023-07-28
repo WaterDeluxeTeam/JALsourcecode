@@ -4,6 +4,7 @@
     {"name":"Fonts","order":2,"path":"folders/Fonts.yy",},
     {"name":"Notes","order":3,"path":"folders/Notes.yy",},
     {"name":"Objects","order":4,"path":"folders/Objects.yy",},
+    {"name":"castles","order":96,"path":"folders/Objects/castles.yy",},
     {"name":"Paths","order":5,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":6,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":7,"path":"folders/Scripts.yy",},
@@ -13,7 +14,6 @@
     {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
     {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
-    {"name":"castles","order":96,"path":"folders/Objects/castles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"creditroom","order":5,"path":"rooms/creditroom/creditroom.yy",},
@@ -234,6 +234,7 @@
     {"name":"txt6","order":55,"path":"objects/txt6/txt6.yy",},
     {"name":"Object17","order":18,"path":"objects/Object17/Object17.yy",},
     {"name":"A_88","order":144,"path":"sprites/A_88/A_88.yy",},
+    {"name":"spr_uc","order":147,"path":"sprites/spr_uc/spr_uc.yy",},
     {"name":"spr_exit","order":36,"path":"sprites/spr_exit/spr_exit.yy",},
     {"name":"aspr_floppy","order":117,"path":"sprites/aspr_floppy/aspr_floppy.yy",},
     {"name":"mapthing","order":102,"path":"sprites/mapthing/mapthing.yy",},

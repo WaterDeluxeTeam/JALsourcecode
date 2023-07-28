@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Owall",
-  "eventList": [],
+  "name": "obj_adamtalk",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_uc",
-    "path": "sprites/spr_uc/spr_uc.yy",
+    "name": "adamidle",
+    "path": "sprites/adamidle/adamidle.yy",
   },
   "spriteMaskId": null,
   "visible": true,
