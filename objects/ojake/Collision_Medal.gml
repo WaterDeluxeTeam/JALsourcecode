@@ -1,4 +1,4 @@
-/// @description Insert description here
+ /// @description Insert description here
 // You can write your code in this editor
 atoilet1.x = randompos2.x
 atoilet1.y = randompos2.y

@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "dedjake",
-    "path": "sprites/dedjake/dedjake.yy",
+    "name": "Spr_lifeup",
+    "path": "sprites/Spr_lifeup/Spr_lifeup.yy",
   },
   "spriteMaskId": null,
   "visible": true,

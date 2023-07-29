@@ -1,6 +1,9 @@
+
+//The Jake Step code. since april 2022
+
 var xDirection = keyboard_check(vk_right) - keyboard_check(vk_left);
 var jump = keyboard_check_pressed(ord("Z"));
-var dash = keyboard_check_pressed(ord("'")); //ez remove tottally not lazy lol
+var dash = keyboard_check_pressed(ord("+")); //ez remove tottally not lazy lol
 var onTheGround = place_meeting(x, y + 1, Owall);
 var onAWall = place_meeting(x - 5, y, Owall) - place_meeting(x + 5, y, Owall);
 
