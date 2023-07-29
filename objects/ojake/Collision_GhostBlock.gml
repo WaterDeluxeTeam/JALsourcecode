@@ -1,7 +1,7 @@
-Obj_exit.x = GhostBlock.x        
+Obj_exit.x = endpos.x        
 x = Startpos.x
 y = Startpos.y
-Obj_exit.y = GhostBlock.y - 5000000000000000000000000000000000000000000000000000000000000000000000000000000
+Obj_exit.y = endpos.y 
 Lap3_block.x = Obj_exit.x - 75
 Lap3_block.y = Obj_exit.y
 global.yeahitsshowtimeperm = true
@@ -9,7 +9,7 @@ global.showtime = 1
 global.timer = global.timerup * 5.75
 draw_set_color(c_fuchsia)
 audio_stop_all()
-audio_play_sound(timesrunningout_old,1,1)
+audio_play_sound(timesrunningout_old,1,0)
 	
 	GhostBlock.y = y + 5000000000000000000000000000000000000000000000000000000000000000000000000000000
 	// Set the timer to 5 seconds
