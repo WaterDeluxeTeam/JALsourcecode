@@ -12,7 +12,6 @@
     {"name":"Shaders","order":9,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":10,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
-    {"name":"Tile Sets","order":12,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
@@ -249,6 +248,7 @@
     {"name":"rm_cracker","order":18,"path":"rooms/rm_cracker/rm_cracker.yy",},
     {"name":"rocktilespr","order":27,"path":"sprites/rocktilespr/rocktilespr.yy",},
     {"name":"spr_tutorialbackground","order":49,"path":"sprites/spr_tutorialbackground/spr_tutorialbackground.yy",},
+    {"name":"tickloop","order":20,"path":"sounds/tickloop/tickloop.yy",},
     {"name":"bleck","order":97,"path":"sprites/bleck/bleck.yy",},
     {"name":"obj_scriptsus","order":38,"path":"objects/obj_scriptsus/obj_scriptsus.yy",},
     {"name":"jakejump","order":1,"path":"sprites/jakejump/jakejump.yy",},
@@ -300,6 +300,7 @@
     {"name":"s_save","order":114,"path":"sprites/s_save/s_save.yy",},
     {"name":"opause","order":66,"path":"objects/opause/opause.yy",},
     {"name":"map_1","order":2,"path":"rooms/map_1/map_1.yy",},
+    {"name":"Yourrunningpastyourtime","order":19,"path":"sounds/Yourrunningpastyourtime/Yourrunningpastyourtime.yy",},
     {"name":"aobj_playthegame","order":70,"path":"objects/aobj_playthegame/aobj_playthegame.yy",},
     {"name":"rm_load1","order":9,"path":"rooms/rm_load1/rm_load1.yy",},
     {"name":"menutheme","order":8,"path":"sounds/menutheme/menutheme.yy",},

@@ -12,6 +12,6 @@ alarm[2] = 15;
 
 //tried making a enemy where you had to run over it to kill it but instead made a unkillable enemy
 //...... Well ima pull a classic move where this isnt a bug its a feature. 
-// Atleast until I fix it.(which would probably be never.)
+// Atleast until I fix it.(which will*(would) probably be never.)
 
 

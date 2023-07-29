@@ -63,7 +63,7 @@
   "out_tilevborder": 2,
   "parent": {
     "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "path": "folders/Timelines/Tile Sets.yy",
   },
   "spriteId": {
     "name": "rocktilespr",

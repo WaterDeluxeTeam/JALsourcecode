@@ -41,3 +41,7 @@ y = Startpos.y
 	
 	
 	pause = 0
+	
+	
+	//global var manager 
+	global.yeahitsshowtimeperm = false
