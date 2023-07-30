@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Extensions",
-    "path": "folders/Extensions.yy",
+    "name": "Camera",
+    "path": "folders/Objects/Important-componets/Camera.yy",
   },
   "parentObjectId": null,
   "persistent": false,

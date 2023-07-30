@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Showtimestuff",
+    "path": "folders/Objects/Important-componets/MUSTPLACEINLVLORCRASH/Showtimestuff.yy",
   },
   "parentObjectId": null,
   "persistent": false,

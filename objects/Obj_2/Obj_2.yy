@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Source722023",
-    "path": "Source722023.yyp",
+    "name": "transport",
+    "path": "folders/Objects/Important-componets/LevelStuff/transport.yy",
   },
   "parentObjectId": null,
   "persistent": false,

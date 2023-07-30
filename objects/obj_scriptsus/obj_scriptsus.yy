@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "DONTPLACEBUTUPDATE",
+    "path": "folders/Objects/SaveLoad/DONTPLACEBUTUPDATE.yy",
   },
   "parentObjectId": null,
   "persistent": false,

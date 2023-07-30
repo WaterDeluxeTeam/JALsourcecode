@@ -10,8 +10,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Unused-or-unlablable",
+    "path": "folders/Objects/Unused-or-unlablable.yy",
   },
   "parentObjectId": null,
   "persistent": false,

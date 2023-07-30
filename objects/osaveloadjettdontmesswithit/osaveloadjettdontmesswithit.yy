@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Important-componets",
+    "path": "folders/Objects/Important-componets.yy",
   },
   "parentObjectId": null,
   "persistent": false,

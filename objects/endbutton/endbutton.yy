@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Menu",
+    "path": "folders/Objects/Menu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_exit",
-    "path": "sprites/spr_exit/spr_exit.yy",
+    "name": "exit2",
+    "path": "sprites/exit2/exit2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

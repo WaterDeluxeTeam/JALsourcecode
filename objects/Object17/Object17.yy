@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "collectatbles",
+    "path": "folders/Objects/Important-componets/collectatbles.yy",
   },
   "parentObjectId": null,
   "persistent": false,
