@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Obj_water",
+  "name": "omusichandle_",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "collison",
-    "path": "folders/Objects/Important-componets/LevelStuff/collison.yy",
+    "name": "Unused-or-unlablable",
+    "path": "folders/Objects/Unused-or-unlablable.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "spr_water",
-    "path": "sprites/spr_water/spr_water.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

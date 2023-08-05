@@ -9,11 +9,11 @@ if (global.showtime == 1) {
 		
     }
 }
-else if (global.laps > 1)  {
+else if (global.laps > 0)  {
     // Increment the collision counter
 
 draw_set_color(c_black)
-draw_text(100, 300, "Jake Has done another death lap. Laps Done: " + string(global.laps) + 2);
+draw_text(100, 300, "Jake Has done another death lap. Death Laps Done: " + string(global.laps));
 }
 
 else {

@@ -156,3 +156,11 @@ if (place_meeting(x, y, Obj_water)) {
         // Perform any actions when moving downwards here
     }
 }
+
+
+//this handles music
+//if room == map_1 {audio_play_sound(theme1,1,99)}
+//if room == map_2 {audio_play_sound(Theme2,1,99)}
+//if room == map_3 {audio_play_sound(theme1,1,99)}
+
+
