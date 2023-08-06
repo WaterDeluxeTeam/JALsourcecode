@@ -34,6 +34,9 @@
     {"name":"Sounds","order":10,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":11,"path":"folders/Sprites.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
+    {"name":"Crashes","order":1,"path":"folders/Notes/Crashes.yy",},
+    {"name":"2023","order":1,"path":"folders/Notes/Crashes/2023.yy",},
+    {"name":"augusto","order":1,"path":"folders/Notes/Crashes/2023/augusto.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"creditroom","order":4,"path":"rooms/creditroom/creditroom.yy",},
@@ -223,6 +226,7 @@
     {"name":"atoilet2","order":1,"path":"objects/atoilet2/atoilet2.yy",},
     {"name":"Sprite55","order":51,"path":"sprites/Sprite55/Sprite55.yy",},
     {"name":"idle_foward","order":94,"path":"sprites/idle_foward/idle_foward.yy",},
+    {"name":"undercon","order":2,"path":"sprites/undercon/undercon.yy",},
     {"name":"spr_tutsign","order":20,"path":"sprites/spr_tutsign/spr_tutsign.yy",},
     {"name":"Sprite52","order":48,"path":"sprites/Sprite52/Sprite52.yy",},
     {"name":"Obj_spike","order":1,"path":"objects/Obj_spike/Obj_spike.yy",},

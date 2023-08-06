@@ -133,11 +133,11 @@ if (place_meeting(x, y, Obj_water)) {
     _gravity = _gravity_swimming;
     ySpeed = lerp(ySpeed, 0, 0.1);
   
-    sprite_index = Sprite85;
+   
 
     if (!are_we_in_water) {
         ySpeed = ySpeed * -1.5;
-        instance_create_layer(x, y, "Effects", Object38);
+      
     }
 
     are_we_in_water = true;
