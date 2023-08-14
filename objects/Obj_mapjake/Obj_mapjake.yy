@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Player",
-    "path": "folders/Objects/Important-componets/Player.yy",
+    "name": "J",
+    "path": "folders/Objects/Important-componets/Player/J.yy",
   },
   "parentObjectId": null,
   "persistent": false,

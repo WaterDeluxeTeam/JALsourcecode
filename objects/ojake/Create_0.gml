@@ -45,7 +45,7 @@ y = Startpos.y
 	
 	//global var manager 
 	global.yeahitsshowtimeperm = false
-	
+	global.player = 0
 	
 	
 	

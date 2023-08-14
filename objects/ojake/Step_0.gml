@@ -12,6 +12,12 @@ if (xDirection != 0) {
     facing = xDirection;
 }
 
+//Managing ADAM or just players period
+
+
+if global.player == 1 {instance_change(osebastion, false); }
+
+
 xSpeed = xDirection * spd;
 mvtLocked = max(mvtLocked - 1, 0);
 dashdur = max(dashdur - 1, 0);
@@ -49,32 +55,59 @@ if (mvtLocked <= 0 && dashdur <= 0) {
 if (keyboard_check(ord("X")) && xDirection != 0) {
     xSpeed = xDirection * spd * 2;
     sprite_index = dashtemp;
+	if global.player == 1 {
+		//insert code here
+	}
 } else {
     if (onAWall != 0) {
         image_xscale = onAWall;
         sprite_index = slidejake;
+		if global.player == 1 {
+		//insert code here
+	}
     } else if (dashdur > 0) {
         sprite_index = a_placeholder;
+		if global.player == 1 {
+		//insert code here
+	}
     } else if (onTheGround) {
         if (xDirection != 0) {
             if (HasDynamite < 1) {
                 sprite_index = jakerwalking;
+				if global.player == 1 {
+		//insert code here
+	}
             } else {
                 sprite_index = jakerwalkingtnt;
+				if global.player == 1 {
+		//insert code here
+	}
             }
         } else {
             if (HasDynamite < 1) {
                 sprite_index = idle;
+				 if global.player == 1 {
+		//insert code here
+	}
             } else {
                 sprite_index = idletnt;
+				if global.player == 1 {
+		//insert code here
+	}
             }
         }
     } else {
         if (SpikeHit == 0) {
             if (HasDynamite < 1) {
                 sprite_index = jakejump;
+				if global.player == 1 {
+		//insert code here
+	}
             } else {
                 sprite_index = jakejumptnt;
+				if global.player == 1 {
+		//insert code here
+	}
             }
         }
     }
@@ -107,6 +140,9 @@ if (hp == 0) {
 
 if (JakeTakesDamage == 1) {
     sprite_index = dedjake;
+	if global.player == 1 {
+	   	//insert code here 
+	}
 }
 
 if (invincible == 0) {

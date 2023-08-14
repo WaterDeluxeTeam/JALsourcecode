@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 92.969795,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Showtimeandlaps",
+    "path": "folders/Sounds/Showtimeandlaps.yy",
   },
   "preload": false,
   "sampleRate": 44100,

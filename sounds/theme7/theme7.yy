@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 432.10013,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Levelthemes",
+    "path": "folders/Sounds/Levelthemes.yy",
   },
   "preload": false,
   "sampleRate": 5512,

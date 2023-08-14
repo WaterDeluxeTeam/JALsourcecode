@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 51.22608,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Menuorotherthemes",
+    "path": "folders/Sounds/Levelthemes/Menuorotherthemes.yy",
   },
   "preload": false,
   "sampleRate": 5512,

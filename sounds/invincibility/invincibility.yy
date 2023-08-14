@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 40.422062,
   "parent": {
-    "name": "Sounds",
-    "path": "folders/Sounds.yy",
+    "name": "Shortthemesthatarentosbutnotsfx",
+    "path": "folders/Sounds/Shortthemesthatarentosbutnotsfx.yy",
   },
   "preload": false,
   "sampleRate": 44100,

@@ -3,6 +3,7 @@
 
 
 
+global.player = 1
 
 
 
